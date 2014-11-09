@@ -13,7 +13,7 @@ import java.lang.*;
  * Once all of the above methods are implemented correctly, this program will
  * display the results of queries in Part 3 (a) and (c) of Programming Assignment 1.
  * 
- * @author Jeong-Hyon Hwang (jhh@cs.albany.edu)
+ *
  *
  */
 public class JDBCTest {
